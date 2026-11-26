@@ -1,0 +1,45 @@
+# Keep Assets (including .meta files), Packages, and ProjectSettings in Git.
+# Unity generates these directories locally.
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]in/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Cc]rash[Rr]eports/
+/[Ee]xported[Oo]bj/
+/.gradle/
+/sysinfo.txt
+/mono_crash.*
+/hs_err_pid*.log
+
+# IDE files generated for this checkout.
+/.vs/
+/.idea/
+/.vscode/
+/*.csproj
+/*.sln
+/*.slnx
+/*.suo
+/*.user
+/*.userprefs
+/*.userosscache
+/*.sln.docstates
+
+# Local environment and signing credentials.
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.pfx
+*.p12
+
+# Operating system files.
+.DS_Store
+Thumbs.db
+Desktop.ini

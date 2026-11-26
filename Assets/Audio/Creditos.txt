@@ -1,0 +1,28 @@
+Efeitos sonoros de Zombie Wave Arcade
+
+TiroPistola.mp3
+Weapons_Handun_Shot por unfa
+https://freesound.org/people/unfa/sounds/565130/
+
+ImpactoZumbi.mp3
+Punch Hard 1 por magnuswaker
+https://freesound.org/people/magnuswaker/sounds/524950/
+
+GemidoZumbi.mp3
+Burp Monster Zombie groan moan por EricsSoundschmiede
+https://freesound.org/people/EricsSoundschmiede/sounds/463721/
+
+Os três arquivos usam as prévias MP3 do Freesound e estão sob CC0 1.0 Universal.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Weapons/TiroAK74.mp3
+ak 47 - single shot.mp3, por ninebilly (CC0 1.0)
+https://freesound.org/people/ninebilly/sounds/520934/
+
+PassoConcreto.mp3
+ESE - Foot Step - Concrete 17.wav, por EpicSoundEffects (CC0 1.0)
+https://freesound.org/people/EpicSoundEffects/sounds/475860/
+
+Weapons/RajadaAK.mp3
+Machine Gun Burst Loop Middle (10 Shots), por qubodup (CC0 1.0)
+https://freesound.org/people/qubodup/sounds/854643/
